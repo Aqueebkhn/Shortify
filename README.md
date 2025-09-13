@@ -68,4 +68,4 @@ The URL Shortener Web Application will be running on `http://localhost:your-port
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please create a new issue or submit a pull request.
 
 ## Contact
-For any inquiries or questions, feel free to reach out via [email](mailto:akshaysinghr98@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-kumar046203/).
+
